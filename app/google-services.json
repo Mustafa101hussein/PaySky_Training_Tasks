@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "699258077692",
+    "project_id": "paysky-ecommerce-app",
+    "storage_bucket": "paysky-ecommerce-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699258077692:android:8dd2519f79f7547cc97279",
+        "android_client_info": {
+          "package_name": "com.example.payskyecommerceapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAZ-MztAgEpHHsqwrp-TB1UOWtLtqNVZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="32dp"
+    android:gravity="center">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="✅"
+        android:textSize="64sp"
+        android:layout_marginBottom="24dp"/>
+
+    <TextView
+        android:id="@+id/confirmationMessage"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Thank you for your order!"
+        android:textSize="18sp"
+        android:gravity="center"
+        android:textAlignment="center"
+        android:lineSpacingMultiplier="1.2"
+        android:layout_marginBottom="32dp"/>
+
+    <Button
+        android:id="@+id/continueShoppingButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Continue Shopping"
+        android:layout_marginTop="16dp"/>
+
+</LinearLayout>
